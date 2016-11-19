@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-quick & simple
-=======
-AND simple
->>>>>>> feature1
+pl
